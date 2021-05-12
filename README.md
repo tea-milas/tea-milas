@@ -20,7 +20,7 @@ Some of my projects you can check out are:
 
 ----------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on improving Notesy 
+- 🔭 I’m currently working on a weather native app & improving Notesy 
 - 🌱 I’m currently learning React Native so I can create apps that users can reach more easily.
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/tea-milas/">linkedIn</a>
 - 😄 Pronouns: she/her
