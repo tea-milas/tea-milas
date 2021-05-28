@@ -20,8 +20,8 @@ Some of my projects you can check out are:
 
 ----------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on a weather native app & improving Notesy 
-- 🌱 I’m currently learning React Native so I can create apps that users can reach more easily.
+- 🔭 I’m currently working on a weather native app
+- 🌱 I’m currently learning React Native (so I can create apps that users can reach more easily) and trying to become more comfortable with TypeScript.
 - 📫 You can reach me on <a href="https://www.linkedin.com/in/tea-milas/">linkedIn</a>
 - 😄 Pronouns: she/her
 - ⚡ When I'm not coding I enjoy taking photos, both analog and digital and going on little adventures.
