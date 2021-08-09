@@ -1,6 +1,6 @@
 ## Hi there 👋 👩🏻‍💻
 
-I'm Tea [Thea], a London based software developer who is passionate about creating beautiful and accessible web apps that make our daily lives a bit easier. ✨ I have recently finished a cooding bootcamp where I've learned quite a few skills, both technical and interpersonal.
+I'm Tea [Thea], a London based software developer who is passionate about creating beautiful and accessible web apps that make our daily lives a bit easier. ✨ 
 
 Some technologies I like working with are:
 - semantic HTML
