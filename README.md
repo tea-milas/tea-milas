@@ -4,8 +4,8 @@ I'm Tea [Thea], a London based software engineer who is passionate about creatin
 
 Some technologies I like working with are:
 - semantic HTML
-- CSS / SASS
-- JavaScript (ES6)
+- CSS / SASS / Emotion
+- JavaScript / TypeScript
 - React
 - Node.js
 - Ruby on rails
